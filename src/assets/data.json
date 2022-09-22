@@ -1,0 +1,361 @@
+{
+  "totalWeeks": 16,
+  "startData": "2022-08-29",
+  "courseDuration": [
+    "08:00-08:45",
+    "08:55-09:40",
+    "10:00-10:45",
+    "10:55-11:40",
+    "13:20-14:05",
+    "14:15-15:00",
+    "15:20-15:05",
+    "16:15-17:00",
+    "18:00-18:45",
+    "18:55-19:40"
+  ],
+  "courses": [
+    {
+      "week": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "数据库原理与应用",
+      "position": "A7-215",
+      "teacher": "安敬民"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "大学英语Ⅲ",
+      "position": "A6-319",
+      "teacher": "王慧"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        9,
+        10
+      ],
+      "name": "Java程序设计Ⅲ",
+      "position": "A7-315",
+      "teacher": "陈恒"
+    },
+    {
+      "week": [
+        3
+      ],
+      "dayOfTheWeek": 2,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "Java程序设计Ⅲ",
+      "position": "A7-315",
+      "teacher": "陈恒"
+    },
+    {
+      "week": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 2,
+      "numberOfSections": [
+        3,
+        4
+      ],
+      "name": "计算机系统基础",
+      "position": "A7-102",
+      "teacher": "杨松"
+    },
+    {
+      "week": [
+        4
+      ],
+      "dayOfTheWeek": 3,
+      "numberOfSections": [
+        3,
+        4
+      ],
+      "name": "计算机系统基础",
+      "position": "A7-102",
+      "teacher": "杨松"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 2,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "人机交互设计Ⅲ",
+      "position": "A7-317",
+      "teacher": "赵旭"
+    },
+    {
+      "week": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 3,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "数据库原理与应用",
+      "position": "A7-215",
+      "teacher": "安敬民"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 3,
+      "numberOfSections": [
+        5,
+        6
+      ],
+      "name": "马克思主义基本原理",
+      "position": "A5-208",
+      "teacher": "赵欣媛"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 3,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "大学英语Ⅲ",
+      "position": "A6-319",
+      "teacher": "王慧"
+    },
+    {
+      "week": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 4,
+      "numberOfSections": [
+        3,
+        4
+      ],
+      "name": "Java程序设计Ⅲ",
+      "position": "A7-315",
+      "teacher": "陈恒"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 4,
+      "numberOfSections": [
+        5,
+        6
+      ],
+      "name": "人机交互设计Ⅲ",
+      "position": "A7-317",
+      "teacher": "赵旭"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 4,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "计算机系统基础",
+      "position": "A7-102",
+      "teacher": "杨松"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "dayOfTheWeek": 5,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "大学生就业指导",
+      "position": "A5-205",
+      "teacher": "于太月"
+    },
+    {
+      "week": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 5,
+      "numberOfSections": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "软件工程",
+      "position": "A7-213",
+      "teacher": "赵磊"
+    }
+  ]
+}
