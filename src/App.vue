@@ -69,21 +69,21 @@ function screening() {
 }
 
 //获取当前日期 2000-01-01
-function getNowFormatDate() {
-  let date = new Date();
-  let seperator1 = "-";
-  let year = date.getFullYear();
-  let month = date.getMonth() + 1;
-  let strDate = date.getDate();
-  if (month >= 1 && month <= 9) {
-    month = "0" + month;
-  }
-  if (strDate >= 0 && strDate <= 9) {
-    strDate = "0" + strDate;
-  }
-  let currentdate = year + seperator1 + month + seperator1 + strDate;
-  return currentdate;
-}
+// function getNowFormatDate() {
+//   let date = new Date();
+//   let seperator1 = "-";
+//   let year = date.getFullYear();
+//   let month = date.getMonth() + 1;
+//   let strDate = date.getDate();
+//   if (month >= 1 && month <= 9) {
+//     month = "0" + month;
+//   }
+//   if (strDate >= 0 && strDate <= 9) {
+//     strDate = "0" + strDate;
+//   }
+//   let currentdate = year + seperator1 + month + seperator1 + strDate;
+//   return currentdate;
+// }
 
 //获取当前时间 2000-01-01 00:00:00
 function getNowFormatTime() {
@@ -145,10 +145,13 @@ function getWeek(i) {
 
 //获取当前周数
 function getTheCurrentWeekNumber() {
-  let startDate = new Date(jsonData.startData);
-  let endDate = new Date(getNowFormatDate());
-  let days = (endDate - startDate) / (1000 * 60 * 60 * 24);
-  let weeks = Math.ceil(days / 7);
+
+  let oneWeek = 7 * 24 * 60 * 60 * 1000; // 一周的毫秒数
+  let startDate = new Date(jsonData.startData); // 起始日期
+  let currentDate = new Date(); // 当前日期
+  let timeDiff = currentDate.getTime() - startDate.getTime(); // 时间差（毫秒）
+  let weeks = Math.floor(timeDiff / oneWeek) + 1; // 差的周数
+
   return weeks;
 }
 
@@ -228,7 +231,7 @@ function switchTimeDisplay() {
   <div class="title">
     <a href="#" data-title="Awesome Button"></a>
     <text>16班 课程表</text>
-    <label>{{ nowTime }} 星期{{ getWeek(getDayOfTheWeek()) }} 第{{ getTheCurrentWeekNumber() }}教学周 </label>
+    <label>{{ nowTime }} 星期{{ getWeek(getDayOfTheWeek()) }} 第{{ getTheCurrentWeekNumber() }}教学周 大三下</label>
   </div>
 
   <div class="input">

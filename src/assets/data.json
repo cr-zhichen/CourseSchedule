@@ -1,6 +1,6 @@
 {
   "totalWeeks": 16,
-  "startData": "2022-08-29",
+  "startData": "2023-02-20",
   "courseDuration": [
     "08:00-08:45",
     "08:55-09:40",
@@ -16,6 +16,39 @@
   "courses": [
     {
       "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "面向对象系统分析与设计",
+      "position": "A3-220",
+      "teacher": "严凤龙"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
         10,
         11,
         12,
@@ -26,15 +59,45 @@
       ],
       "dayOfTheWeek": 1,
       "numberOfSections": [
-        1,
-        2
+        3,
+        4
       ],
-      "name": "数据库原理与应用",
-      "position": "A7-215",
-      "teacher": "安敬民"
+      "name": "自动化部署与运维",
+      "position": "A7-320",
+      "teacher": "盛雨"
     },
     {
       "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        5,
+        6
+      ],
+      "name": "大学英语III(二)",
+      "position": "A6-216",
+      "teacher": "王慧"
+    },
+    {
+      "week": [
+        1,
+        2,
         3,
         4,
         5,
@@ -55,12 +118,38 @@
         7,
         8
       ],
-      "name": "大学英语Ⅲ",
-      "position": "A6-319",
-      "teacher": "王慧"
+      "name": "中国近代史纲要",
+      "position": "A5-209",
+      "teacher": "林琳"
     },
     {
       "week": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "dayOfTheWeek": 1,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "美术鉴赏",
+      "position": "钉钉线上",
+      "teacher": "杨锦华"
+    },
+    {
+      "week": [
+        1,
+        2,
         3,
         4,
         5,
@@ -76,113 +165,149 @@
         15,
         16
       ],
-      "dayOfTheWeek": 1,
+      "dayOfTheWeek": 2,
       "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "软件质量保证与测试",
+      "position": "A6-318",
+      "teacher": "赵慧"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 2,
+      "numberOfSections": [
+        5,
+        6
+      ],
+      "name": "软件体积结构与架构技术III",
+      "position": "A1-316",
+      "teacher": "徐祥远"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 2,
+      "numberOfSections": [
+        7,
+        8
+      ],
+      "name": "Web前端开发架构",
+      "position": "A7-215",
+      "teacher": "赵磊"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 3,
+      "numberOfSections": [
+        1,
+        2
+      ],
+      "name": "自动化部署与运维",
+      "position": "A7-320",
+      "teacher": "盛雨"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
         9,
         10
       ],
-      "name": "Java程序设计Ⅲ",
-      "position": "A7-315",
-      "teacher": "陈恒"
-    },
-    {
-      "week": [
-        3
-      ],
-      "dayOfTheWeek": 2,
-      "numberOfSections": [
-        1,
-        2
-      ],
-      "name": "Java程序设计Ⅲ",
-      "position": "A7-315",
-      "teacher": "陈恒"
-    },
-    {
-      "week": [
-        3,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "dayOfTheWeek": 2,
-      "numberOfSections": [
-        3,
-        4
-      ],
-      "name": "计算机系统基础",
-      "position": "A7-102",
-      "teacher": "杨松"
-    },
-    {
-      "week": [
-        4
-      ],
       "dayOfTheWeek": 3,
-      "numberOfSections": [
-        3,
-        4
-      ],
-      "name": "计算机系统基础",
-      "position": "A7-102",
-      "teacher": "杨松"
-    },
-    {
-      "week": [
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "dayOfTheWeek": 2,
       "numberOfSections": [
         7,
         8
       ],
-      "name": "人机交互设计Ⅲ",
-      "position": "A7-317",
-      "teacher": "赵旭"
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "position": "A5-209",
+      "teacher": "王秀娟"
     },
     {
       "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
         10,
         11,
-        12,
-        13,
-        14,
-        15,
-        16
+        12
       ],
-      "dayOfTheWeek": 3,
+      "dayOfTheWeek": 4,
       "numberOfSections": [
         1,
         2
       ],
-      "name": "数据库原理与应用",
-      "position": "A7-215",
-      "teacher": "安敬民"
+      "name": "面向对象系统分析与设计",
+      "position": "A3-220",
+      "teacher": "严凤龙"
     },
     {
       "week": [
+        1,
+        2,
         3,
         4,
         5,
@@ -198,94 +323,47 @@
         15,
         16
       ],
-      "dayOfTheWeek": 3,
+      "dayOfTheWeek": 4,
+      "numberOfSections": [
+        3,
+        4
+      ],
+      "name": "软件质量保证与测试",
+      "position": "A6-318",
+      "teacher": "赵慧"
+    },
+    {
+      "week": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dayOfTheWeek": 4,
       "numberOfSections": [
         5,
         6
       ],
-      "name": "马克思主义基本原理",
-      "position": "A5-208",
-      "teacher": "赵欣媛"
-    },
-    {
-      "week": [
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "dayOfTheWeek": 3,
-      "numberOfSections": [
-        7,
-        8
-      ],
-      "name": "大学英语Ⅲ",
-      "position": "A6-319",
+      "name": "大学英语III(二)",
+      "position": "A6-216",
       "teacher": "王慧"
     },
     {
       "week": [
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "dayOfTheWeek": 4,
-      "numberOfSections": [
-        3,
-        4
-      ],
-      "name": "Java程序设计Ⅲ",
-      "position": "A7-315",
-      "teacher": "陈恒"
-    },
-    {
-      "week": [
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "dayOfTheWeek": 4,
-      "numberOfSections": [
-        5,
-        6
-      ],
-      "name": "人机交互设计Ⅲ",
-      "position": "A7-317",
-      "teacher": "赵旭"
-    },
-    {
-      "week": [
+        1,
+        2,
         3,
         4,
         5,
@@ -306,31 +384,42 @@
         7,
         8
       ],
-      "name": "计算机系统基础",
-      "position": "A7-102",
-      "teacher": "杨松"
+      "name": "软件体积结构与架构技术III",
+      "position": "A1-316",
+      "teacher": "徐祥远"
     },
     {
       "week": [
+        1,
+        2,
         3,
         4,
         5,
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
       ],
       "dayOfTheWeek": 5,
       "numberOfSections": [
         1,
         2
       ],
-      "name": "大学生就业指导",
-      "position": "A5-205",
-      "teacher": "于太月"
+      "name": "Web前端开发架构",
+      "position": "A7-213",
+      "teacher": "赵磊"
     },
     {
       "week": [
+        1,
+        2,
         3,
         4,
         5,
@@ -338,24 +427,16 @@
         7,
         8,
         9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
+        10
       ],
       "dayOfTheWeek": 5,
       "numberOfSections": [
         5,
-        6,
-        7,
-        8
+        6
       ],
-      "name": "软件工程",
-      "position": "A7-213",
-      "teacher": "赵磊"
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "position": "A5-210",
+      "teacher": "王秀娟"
     }
   ]
 }
