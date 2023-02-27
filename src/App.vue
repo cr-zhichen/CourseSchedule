@@ -230,8 +230,9 @@ function switchTimeDisplay() {
 
   <div class="title">
     <a href="#" data-title="Awesome Button"></a>
-    <text>16班 课程表</text>
-    <label>{{ nowTime }} 星期{{ getWeek(getDayOfTheWeek()) }} 第{{ getTheCurrentWeekNumber() }}教学周 大三下</label>
+    <text>{{ jsonData.title }}</text>
+    <label>{{ nowTime }} 星期{{ getWeek(getDayOfTheWeek()) }} 第{{ getTheCurrentWeekNumber() }}教学周
+      {{ jsonData.semester }}</label>
   </div>
 
   <div class="input">
